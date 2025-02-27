@@ -1,0 +1,2 @@
+C:\Users\josep\OneDrive\Documents\GitHub\ProyectoAnalisis\ParqueosApp\ParqueosApp.Client\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\josep\OneDrive\Documents\GitHub\ProyectoAnalisis\ParqueosApp\ParqueosApp.Client\obj\Debug\net8.0\staticwebassets.build.json

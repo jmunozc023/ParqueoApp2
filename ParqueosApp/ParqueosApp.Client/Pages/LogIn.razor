@@ -1,0 +1,98 @@
+﻿@page "/login"
+@rendermode InteractiveAuto
+<h3>LogIn</h3>
+
+<div class="card">
+	<div class="card-body">
+		<EditForm Model="@user" OnValidSubmit="@HandleValidSubmit">
+			<DataAnnotationsValidator />
+			<ValidationSummary />
+
+			<div class="form-group">
+				<label for="email">Email</label>
+				<InputText type="email" class="form-control" id="email" placeholder="Ingrese su email" @bind-Value="user.Email" />
+			</div>
+			<div class="form-group">
+				<label for="password">Password</label>
+				<div class="input-group">
+					<InputText type="@passwordInputType" class="form-control col-sm-8" id="password" placeholder="Ingrese su password" @bind-Value="user.Password" />
+					<div class="input-group-append">
+						<div class="input-group-text">
+							<input id="ShowPassword" type="checkbox" @onchange="TogglePasswordVisibility" /> Mostrar Password
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="form-group">
+				<label for="role">Rol</label>
+				<div class="col-sm-12">
+					<InputSelect class="form-control" id="role" @bind-Value="user.Role">
+						<option value="Admin">Admin</option>
+						<option value="Oficial de seguridad">Oficial de seguridad</option>
+						<option value="Estudiante / Administrativo">Estudiante / Administrativo</option>
+					</InputSelect>
+				</div>
+			</div>
+			<br />
+			<button type="submit" class="btn btn-primary">Submit</button>
+		</EditForm>
+	</div>
+</div>
+
+<div class="card">
+	<div class="card-body">
+		<p>¿No tienes una cuenta? <a href="/register">Regístrate</a></p>
+	</div>
+</div>
+
+@code {
+	private bool showPassword;
+	private string passwordInputType = "password";
+	private User user = new User();
+
+	private void TogglePasswordVisibility(ChangeEventArgs e)
+	{
+		showPassword = (bool)e.Value;
+		passwordInputType = showPassword ? "text" : "password";
+	}
+
+	private async Task HandleValidSubmit()
+	{
+		// Logic to authenticate user and open session with or without privileges
+		var isAuthenticated = await AuthenticateUser(user.Email, user.Password, user.Role);
+		if (isAuthenticated)
+		{
+			// Open session with privileges based on role
+			if (user.Role == "Admin")
+			{
+				// Open admin session
+			}
+			else if (user.Role == "Oficial de seguridad")
+			{
+				// Open security officer session
+			}
+			else
+			{
+				// Open student/administrative session
+			}
+		}
+		else
+		{
+			// Show error message
+		}
+	}
+
+	private async Task<bool> AuthenticateUser(string email, string password, string role)
+	{
+		// Logic to authenticate user using Azure SQL Database
+		// This is a placeholder for actual database logic
+		return await Task.FromResult(true);
+	}
+
+	private class User
+	{
+		public string Email { get; set; }
+		public string Password { get; set; }
+		public string Role { get; set; }
+	}
+}

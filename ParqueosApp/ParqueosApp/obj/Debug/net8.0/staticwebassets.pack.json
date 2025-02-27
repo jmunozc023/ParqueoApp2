@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ProyectoAnalisis\\ParqueosApp\\ParqueosApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ParqueosApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ParqueosApp.wbn279os9m.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ProyectoAnalisis\\ParqueosApp\\ParqueosApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ProyectoAnalisis\\ParqueosApp\\ParqueosApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ProyectoAnalisis\\ParqueosApp\\ParqueosApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ProyectoAnalisis\\ParqueosApp\\ParqueosApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ParqueosApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ParqueosApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ParqueosApp.props",
+      "PackagePath": "build\\ParqueosApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ParqueosApp.props",
+      "PackagePath": "buildMultiTargeting\\ParqueosApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ParqueosApp.props",
+      "PackagePath": "buildTransitive\\ParqueosApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

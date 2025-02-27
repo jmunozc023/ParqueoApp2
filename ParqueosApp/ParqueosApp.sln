@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParqueosApp", "ParqueosApp\ParqueosApp.csproj", "{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParqueosApp.Client", "ParqueosApp.Client\ParqueosApp.Client.csproj", "{3FD117D6-273A-4756-B9D2-C60065BE9EB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FD117D6-273A-4756-B9D2-C60065BE9EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD117D6-273A-4756-B9D2-C60065BE9EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD117D6-273A-4756-B9D2-C60065BE9EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD117D6-273A-4756-B9D2-C60065BE9EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {828DEE41-BAA0-476B-8524-6017C7B95A76}
+	EndGlobalSection
+EndGlobal
