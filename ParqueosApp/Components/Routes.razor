@@ -1,0 +1,26 @@
+﻿@using Microsoft.AspNetCore.Components  
+@using ParqueosApp.Client.Pages  
+@using Microsoft.AspNetCore.Components.Authorization  
+@inject NavigationManager navManager  
+
+<CascadingAuthenticationState>  
+   <Router AppAssembly="typeof(Program).Assembly" AdditionalAssemblies="new[] { typeof(Client._Imports).Assembly }">  
+       <Found Context="routeData">  
+           <AuthorizeRouteView RouteData="@routeData" DefaultLayout="@typeof(Layout.MainLayout)">  
+               <NotAuthorized>  
+                   @{  
+                       if (context.User.Identity?.IsAuthenticated != true)  
+                       {  
+                           navManager.NavigateTo("/");  
+                       }  
+                       else  
+                       {  
+                           <p class="alert alert-danger">No esta autorizado para ver esta pagina</p>  
+                       }  
+                   }  
+               </NotAuthorized>  
+           </AuthorizeRouteView>  
+           <!-- <FocusOnNavigate RouteData="routeData" Selector="h1" /> -->  
+       </Found>  
+   </Router>  
+</CascadingAuthenticationState>

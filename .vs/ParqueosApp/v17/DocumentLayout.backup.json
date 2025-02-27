@@ -1,0 +1,304 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}|ParqueosApp\\ParqueosApp.csproj|c:\\users\\josep\\onedrive\\documents\\github\\parqueoapp2\\parqueosapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}|ParqueosApp\\ParqueosApp.csproj|solutionrelative:parqueosapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|c:\\users\\josep\\onedrive\\documents\\github\\parqueoapp2\\parqueosapp.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|solutionrelative:parqueosapp.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|c:\\users\\josep\\onedrive\\documents\\github\\parqueoapp2\\parqueosapp.client\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|solutionrelative:parqueosapp.client\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}|ParqueosApp\\ParqueosApp.csproj|c:\\users\\josep\\onedrive\\documents\\github\\parqueoapp2\\parqueosapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}|ParqueosApp\\ParqueosApp.csproj|solutionrelative:parqueosapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}|ParqueosApp\\ParqueosApp.csproj|c:\\users\\josep\\onedrive\\documents\\github\\parqueoapp2\\parqueosapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}|ParqueosApp\\ParqueosApp.csproj|solutionrelative:parqueosapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}|ParqueosApp\\ParqueosApp.csproj|c:\\users\\josep\\onedrive\\documents\\github\\parqueoapp2\\parqueosapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}|ParqueosApp\\ParqueosApp.csproj|solutionrelative:parqueosapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|c:\\users\\josep\\onedrive\\documents\\github\\parqueoapp2\\parqueosapp.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|solutionrelative:parqueosapp.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}|ParqueosApp\\ParqueosApp.csproj|c:\\users\\josep\\onedrive\\documents\\github\\parqueoapp2\\parqueosapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}|ParqueosApp\\ParqueosApp.csproj|solutionrelative:parqueosapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}|ParqueosApp\\ParqueosApp.csproj|c:\\users\\josep\\onedrive\\documents\\github\\parqueoapp2\\parqueosapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}|ParqueosApp\\ParqueosApp.csproj|solutionrelative:parqueosapp\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|c:\\users\\josep\\onedrive\\documents\\github\\parqueoapp2\\parqueosapp.client\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|solutionrelative:parqueosapp.client\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|c:\\users\\josep\\onedrive\\documents\\github\\parqueoapp2\\parqueosapp.client\\sessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|solutionrelative:parqueosapp.client\\sessiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}|ParqueosApp\\ParqueosApp.csproj|c:\\users\\josep\\onedrive\\documents\\github\\parqueoapp2\\parqueosapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}|ParqueosApp\\ParqueosApp.csproj|solutionrelative:parqueosapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|c:\\users\\josep\\onedrive\\documents\\github\\parqueoapp2\\parqueosapp.client\\extensiones\\autenticacionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|solutionrelative:parqueosapp.client\\extensiones\\autenticacionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}|ParqueosApp\\ParqueosApp.csproj|c:\\users\\josep\\onedrive\\documents\\github\\parqueoapp2\\parqueosapp\\components\\layout\\loginlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}|ParqueosApp\\ParqueosApp.csproj|solutionrelative:parqueosapp\\components\\layout\\loginlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|c:\\users\\josep\\onedrive\\documents\\github\\parqueoapp2\\parqueosapp.client\\extensiones\\sessionstorageextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|solutionrelative:parqueosapp.client\\extensiones\\sessionstorageextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|c:\\users\\josep\\onedrive\\documents\\github\\parqueoapp2\\parqueosapp.client\\parqueosapp.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|solutionrelative:parqueosapp.client\\parqueosapp.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\Program.cs",
+              "RelativeDocumentMoniker": "ParqueosApp\\Program.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\Program.cs",
+              "RelativeToolTip": "ParqueosApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T11:34:59.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "ParqueosApp\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "ParqueosApp\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T11:20:27.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "ParqueosApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "ParqueosApp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T11:16:56.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "ParqueosApp\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\Components\\Routes.razor",
+              "RelativeToolTip": "ParqueosApp\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T11:01:51.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "ParqueosApp.Client\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "ParqueosApp.Client\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T10:59:42.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "ParqueosApp\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "ParqueosApp\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T10:57:33.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogIn.razor",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp.Client\\Pages\\LogIn.razor",
+              "RelativeDocumentMoniker": "ParqueosApp.Client\\Pages\\LogIn.razor",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp.Client\\Pages\\LogIn.razor",
+              "RelativeToolTip": "ParqueosApp.Client\\Pages\\LogIn.razor",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T10:19:00.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "ParqueosApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "ParqueosApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T10:12:34.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LogInLayout.razor",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\Components\\Layout\\LogInLayout.razor",
+              "RelativeDocumentMoniker": "ParqueosApp\\Components\\Layout\\LogInLayout.razor",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\Components\\Layout\\LogInLayout.razor",
+              "RelativeToolTip": "ParqueosApp\\Components\\Layout\\LogInLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T10:10:00.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp.Client\\Program.cs",
+              "RelativeDocumentMoniker": "ParqueosApp.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp.Client\\Program.cs*",
+              "RelativeToolTip": "ParqueosApp.Client\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T10:02:53.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AutenticacionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp.Client\\Extensiones\\AutenticacionExtension.cs",
+              "RelativeDocumentMoniker": "ParqueosApp.Client\\Extensiones\\AutenticacionExtension.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp.Client\\Extensiones\\AutenticacionExtension.cs",
+              "RelativeToolTip": "ParqueosApp.Client\\Extensiones\\AutenticacionExtension.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwCIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:39:36.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SessionStorageExtension.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp.Client\\Extensiones\\SessionStorageExtension.cs",
+              "RelativeDocumentMoniker": "ParqueosApp.Client\\Extensiones\\SessionStorageExtension.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp.Client\\Extensiones\\SessionStorageExtension.cs",
+              "RelativeToolTip": "ParqueosApp.Client\\Extensiones\\SessionStorageExtension.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T09:24:38.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ParqueosApp.Client",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp.Client\\ParqueosApp.Client.csproj",
+              "RelativeDocumentMoniker": "ParqueosApp.Client\\ParqueosApp.Client.csproj",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp.Client\\ParqueosApp.Client.csproj",
+              "RelativeToolTip": "ParqueosApp.Client\\ParqueosApp.Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T08:45:23.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SessionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp.Client\\SessionDTO.cs",
+              "RelativeDocumentMoniker": "ParqueosApp.Client\\SessionDTO.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp.Client\\SessionDTO.cs",
+              "RelativeToolTip": "ParqueosApp.Client\\SessionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:49:29.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LogInDTO.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp.Client\\LogInDTO.cs",
+              "RelativeDocumentMoniker": "ParqueosApp.Client\\LogInDTO.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp.Client\\LogInDTO.cs",
+              "RelativeToolTip": "ParqueosApp.Client\\LogInDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:48:35.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "ParqueosApp\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "ParqueosApp\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T08:43:20.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

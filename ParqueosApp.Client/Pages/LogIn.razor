@@ -1,0 +1,48 @@
+﻿@page "/"
+
+
+@inject HttpClient httpClient
+@using ParqueosApp.Client.Extensiones
+@using ParqueosApp.Client
+@using Microsoft.AspNetCore.Components.Authorization
+@inject AuthenticationStateProvider AuthenticationProvider
+@inject NavigationManager navManager
+
+<div class="row mt-5">
+	<div class="col-lg-4 offset-lg-4 border">
+		<div class="mb-3 text-center">
+			<h3>LogIn</h3>
+		</div>
+		<div class="mb-3">
+			<label for="correo">Email</label>
+			<input type="email" @bind="logIn.Correo" class="form-control" id="correo" placeholder="Ingrese su correo">
+		</div>
+		<div class="mb-3">
+			<label for="contrasena">Contraseña</label>
+			<input type="password" @bind="logIn.Contrasena" class="form-control" id="contrasena" placeholder="Ingrese su contraseña">
+		</div>
+		<div class="mb-3">
+			<button @onclick= "IniciarSesion" class="btn btn-primary">Login</button>
+
+		</div>
+
+	</div>
+</div>
+
+@code {
+	private LogInDTO logIn = new LogInDTO();
+
+	private async Task IniciarSesion()
+	{
+		var loginResponse = await httpClient.PostAsJsonAsync<LogInDTO>("/api/Usuario/LogIn", logIn);
+		if (loginResponse.IsSuccessStatusCode)
+		{
+			var sesionUsuario = await loginResponse.Content.ReadFromJsonAsync<SessionDTO>();
+			var autenticacionExt = (AutenticacionExtension)AuthenticationProvider;
+			await autenticacionExt.ActualizarEstadoAutenticacion(sesionUsuario);
+
+			navManager.NavigateTo("/index");
+		}
+
+	}
+}
