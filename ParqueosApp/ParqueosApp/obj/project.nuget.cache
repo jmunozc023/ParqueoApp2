@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uUMOtwwUf0I=",
+  "dgSpecHash": "0m6PX8+MxrM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ProyectoAnalisis\\ParqueosApp\\ParqueosApp\\ParqueosApp.csproj",
+  "projectFilePath": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\ParqueosApp\\ParqueosApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\josep\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.13\\microsoft.aspnetcore.authorization.8.0.13.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.13\\microsoft.aspnetcore.components.8.0.13.nupkg.sha512",
