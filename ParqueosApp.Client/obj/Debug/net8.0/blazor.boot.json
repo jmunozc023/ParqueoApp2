@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ParqueosApp.Client",
   "resources": {
-    "hash": "sha256-VmfygO3D0JujGE257j0j1moC7QafK9wroAGxpgTlUno=",
+    "hash": "sha256-Uy1ucMTf+JLVyGKvlecB4p4t6sWU3PHGnY7SHwN7ocw=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-xNQsYHtL1vcbrVTHDZAwJM4WovpoyjsrM2C6FQ8cW1w="
     },
@@ -18,10 +18,8 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "Blazored.SessionStorage.wasm": "sha256-nQXuCGHos7iwp2WxRUgarKmWgJYChaVQp2NajgNU3V8=",
       "Microsoft.AspNetCore.Authorization.wasm": "sha256-g81inugSrrLKEtyxg9JkSxiBc3dly3FZcTKaz72rU/U=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-4/ecRnxEzB060rvNFk3n/GL1s3361WaHeLmfoea+Mp8=",
-      "Microsoft.AspNetCore.Components.Authorization.wasm": "sha256-3E2O2waT842GBibENfWI1g/QX9LFSGYCegncTV4jajs=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-y+vSHfxfthNQLuI3YYqbRnwPOD49aCCNjYLZudiE3q4=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-e4hqkIPdVVdFFXvJs2Z6QafKhk12fDzlKQKxa83DtLo=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-iYwWRHCaYqK1f3lFW+fg6B8/gZmo+j33ZABi/MGP+kw=",
@@ -211,10 +209,10 @@
       "mscorlib.wasm": "sha256-RAf5jgXLg+06C4tJ3CabxAZaVjCN2/+E6fxRjRN8yHk=",
       "netstandard.wasm": "sha256-KCAE8RQwTurP5pGnGF819qf9sK++2O0rXzt6tOjlfi8=",
       "System.Private.CoreLib.wasm": "sha256-LQqLbHgeEX4HONx7GwIxGgmzIXP6n2OPxqnq+/4Tyqk=",
-      "ParqueosApp.Client.wasm": "sha256-dJYBZHHOHoz8LI/3stn3IzkX7EFn2EgIxcUjwOpMz/U="
+      "ParqueosApp.Client.wasm": "sha256-Lv8s4ZXvtSuOek6Civ7h1+YDdG/PkbAsYuWX7YEs0qE="
     },
     "pdb": {
-      "ParqueosApp.Client.pdb": "sha256-gOVI+QjE735qQjGMkPkSsJc6ftJSjHF/Ld3k+m17o6E="
+      "ParqueosApp.Client.pdb": "sha256-sY7HH9DD235QfOV/i97VPtDL/QuMFopsVwy5xzzBC4c="
     }
   },
   "cacheBootResources": true,

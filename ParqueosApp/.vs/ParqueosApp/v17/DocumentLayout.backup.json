@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ProyectoAnalisis\\ParqueosApp\\",
+  "WorkspaceRootPath": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|c:\\users\\josep\\onedrive\\documents\\github\\proyectoanalisis\\parqueosapp\\parqueosapp.client\\pages\\perfiles.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|solutionrelative:parqueosapp.client\\pages\\perfiles.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|c:\\users\\josep\\onedrive\\documents\\github\\proyectoanalisis\\parqueosapp\\parqueosapp.client\\pages\\administracion.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|solutionrelative:parqueosapp.client\\pages\\administracion.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}|ParqueosApp\\ParqueosApp.csproj|c:\\users\\josep\\onedrive\\documents\\github\\proyectoanalisis\\parqueosapp\\parqueosapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}|ParqueosApp\\ParqueosApp.csproj|c:\\users\\josep\\onedrive\\documents\\github\\parqueoapp2\\parqueosapp\\parqueosapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}|ParqueosApp\\ParqueosApp.csproj|solutionrelative:parqueosapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}|ParqueosApp\\ParqueosApp.csproj|c:\\users\\josep\\onedrive\\documents\\github\\proyectoanalisis\\parqueosapp\\parqueosapp\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|c:\\users\\josep\\onedrive\\documents\\github\\parqueoapp2\\parqueosapp\\parqueosapp.client\\pages\\perfiles.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|solutionrelative:parqueosapp.client\\pages\\perfiles.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|c:\\users\\josep\\onedrive\\documents\\github\\parqueoapp2\\parqueosapp\\parqueosapp.client\\pages\\administracion.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FD117D6-273A-4756-B9D2-C60065BE9EB4}|ParqueosApp.Client\\ParqueosApp.Client.csproj|solutionrelative:parqueosapp.client\\pages\\administracion.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}|ParqueosApp\\ParqueosApp.csproj|c:\\users\\josep\\onedrive\\documents\\github\\parqueoapp2\\parqueosapp\\parqueosapp\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{6935F0A6-FE13-4DF5-A2B0-1A1C11F9C5E4}|ParqueosApp\\ParqueosApp.csproj|solutionrelative:parqueosapp\\components\\layout\\navmenu.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,38 +37,40 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Perfiles.razor",
-              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ProyectoAnalisis\\ParqueosApp\\ParqueosApp.Client\\Pages\\Perfiles.razor",
-              "RelativeDocumentMoniker": "ParqueosApp.Client\\Pages\\Perfiles.razor",
-              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ProyectoAnalisis\\ParqueosApp\\ParqueosApp.Client\\Pages\\Perfiles.razor",
-              "RelativeToolTip": "ParqueosApp.Client\\Pages\\Perfiles.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-27T06:58:37.019Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Perfiles.razor",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\ParqueosApp.Client\\Pages\\Perfiles.razor",
+              "RelativeDocumentMoniker": "ParqueosApp.Client\\Pages\\Perfiles.razor",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\ParqueosApp.Client\\Pages\\Perfiles.razor",
+              "RelativeToolTip": "ParqueosApp.Client\\Pages\\Perfiles.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T06:58:37.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Administracion.razor",
-              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ProyectoAnalisis\\ParqueosApp\\ParqueosApp.Client\\Pages\\Administracion.razor",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\ParqueosApp.Client\\Pages\\Administracion.razor",
               "RelativeDocumentMoniker": "ParqueosApp.Client\\Pages\\Administracion.razor",
-              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ProyectoAnalisis\\ParqueosApp\\ParqueosApp.Client\\Pages\\Administracion.razor",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\ParqueosApp.Client\\Pages\\Administracion.razor",
               "RelativeToolTip": "ParqueosApp.Client\\Pages\\Administracion.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-27T06:56:49.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-27T06:56:49.759Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "NavMenu.razor.css",
-              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ProyectoAnalisis\\ParqueosApp\\ParqueosApp\\Components\\Layout\\NavMenu.razor.css",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\ParqueosApp\\Components\\Layout\\NavMenu.razor.css",
               "RelativeDocumentMoniker": "ParqueosApp\\Components\\Layout\\NavMenu.razor.css",
-              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ProyectoAnalisis\\ParqueosApp\\ParqueosApp\\Components\\Layout\\NavMenu.razor.css",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\ParqueosApp\\Components\\Layout\\NavMenu.razor.css",
               "RelativeToolTip": "ParqueosApp\\Components\\Layout\\NavMenu.razor.css",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -76,20 +78,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ProyectoAnalisis\\ParqueosApp\\ParqueosApp\\Components\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\ParqueosApp\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "ParqueosApp\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ProyectoAnalisis\\ParqueosApp\\ParqueosApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\ParqueosApp\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "ParqueosApp\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-24T10:59:26.185Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

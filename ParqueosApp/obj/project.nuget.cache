@@ -1,14 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "oCpWONq6AU4=",
+  "dgSpecHash": "0m6PX8+MxrM=",
   "success": true,
-  "projectFilePath": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\ParqueosApp.csproj",
+  "projectFilePath": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\ParqueosApp\\ParqueosApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\josep\\.nuget\\packages\\blazored.sessionstorage\\2.4.0\\blazored.sessionstorage.2.4.0.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.13\\microsoft.aspnetcore.authorization.8.0.13.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.13\\microsoft.aspnetcore.components.8.0.13.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.13\\microsoft.aspnetcore.components.analyzers.8.0.13.nupkg.sha512",
-    "C:\\Users\\josep\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\8.0.13\\microsoft.aspnetcore.components.authorization.8.0.13.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\8.0.13\\microsoft.aspnetcore.components.forms.8.0.13.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\microsoft.aspnetcore.components.web\\8.0.13\\microsoft.aspnetcore.components.web.8.0.13.nupkg.sha512",
     "C:\\Users\\josep\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\8.0.13\\microsoft.aspnetcore.components.webassembly.8.0.13.nupkg.sha512",

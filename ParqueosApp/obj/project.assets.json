@@ -2,18 +2,6 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "Blazored.SessionStorage/2.4.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "7.0.1"
-        },
-        "compile": {
-          "lib/net7.0/Blazored.SessionStorage.dll": {}
-        },
-        "runtime": {
-          "lib/net7.0/Blazored.SessionStorage.dll": {}
-        }
-      },
       "Microsoft.AspNetCore.Authorization/8.0.13": {
         "type": "package",
         "dependencies": {
@@ -53,23 +41,6 @@
         "type": "package",
         "build": {
           "buildTransitive/netstandard2.0/Microsoft.AspNetCore.Components.Analyzers.targets": {}
-        }
-      },
-      "Microsoft.AspNetCore.Components.Authorization/8.0.13": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Authorization": "8.0.13",
-          "Microsoft.AspNetCore.Components": "8.0.13"
-        },
-        "compile": {
-          "lib/net8.0/Microsoft.AspNetCore.Components.Authorization.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net8.0/Microsoft.AspNetCore.Components.Authorization.dll": {
-            "related": ".xml"
-          }
         }
       },
       "Microsoft.AspNetCore.Components.Forms/8.0.13": {
@@ -483,8 +454,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Blazored.SessionStorage": "2.4.0",
-          "Microsoft.AspNetCore.Components.Authorization": "8.0.13",
           "Microsoft.AspNetCore.Components.WebAssembly": "8.0.13"
         },
         "compile": {
@@ -497,20 +466,6 @@
     }
   },
   "libraries": {
-    "Blazored.SessionStorage/2.4.0": {
-      "sha512": "e3XXH+zGGxDq1zC7YzLDD8mfvtoC6ESwTWOGD25H+FbPJlB7yQeL72hDY76tqkcrh98fh+y12r4BNhyQVV9YKw==",
-      "type": "package",
-      "path": "blazored.sessionstorage/2.4.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "blazored.sessionstorage.2.4.0.nupkg.sha512",
-        "blazored.sessionstorage.nuspec",
-        "icon.png",
-        "lib/net6.0/Blazored.SessionStorage.dll",
-        "lib/net7.0/Blazored.SessionStorage.dll"
-      ]
-    },
     "Microsoft.AspNetCore.Authorization/8.0.13": {
       "sha512": "cMdPz2hFN8fjEdUBelItljBrsbiz2eVspV5W5bee9c6OT4ChgprnHe7BKXYc3Wwzhxo/ls9XxcLuXZrfVCIT6Q==",
       "type": "package",
@@ -559,21 +514,6 @@
         "buildTransitive/netstandard2.0/Microsoft.AspNetCore.Components.Analyzers.targets",
         "microsoft.aspnetcore.components.analyzers.8.0.13.nupkg.sha512",
         "microsoft.aspnetcore.components.analyzers.nuspec"
-      ]
-    },
-    "Microsoft.AspNetCore.Components.Authorization/8.0.13": {
-      "sha512": "gigWtO52PSXuGFrjkNcE82jYo6jyFLZWh43jI2aFSExlbfejF99MPp6E51R5JtFgzwYuTGT5yR1FUIjtWRTutA==",
-      "type": "package",
-      "path": "microsoft.aspnetcore.components.authorization/8.0.13",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "THIRD-PARTY-NOTICES.txt",
-        "lib/net8.0/Microsoft.AspNetCore.Components.Authorization.dll",
-        "lib/net8.0/Microsoft.AspNetCore.Components.Authorization.xml",
-        "microsoft.aspnetcore.components.authorization.8.0.13.nupkg.sha512",
-        "microsoft.aspnetcore.components.authorization.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Components.Forms/8.0.13": {
@@ -1245,11 +1185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\ParqueosApp.csproj",
+      "projectUniqueName": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\ParqueosApp\\ParqueosApp.csproj",
       "projectName": "ParqueosApp",
-      "projectPath": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\ParqueosApp.csproj",
+      "projectPath": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\ParqueosApp\\ParqueosApp.csproj",
       "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\obj\\",
+      "outputPath": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\ParqueosApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1271,8 +1211,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp.Client\\ParqueosApp.Client.csproj": {
-              "projectPath": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp.Client\\ParqueosApp.Client.csproj"
+            "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\ParqueosApp.Client\\ParqueosApp.Client.csproj": {
+              "projectPath": "C:\\Users\\josep\\OneDrive\\Documents\\GitHub\\ParqueoApp2\\ParqueosApp\\ParqueosApp.Client\\ParqueosApp.Client.csproj"
             }
           }
         }
